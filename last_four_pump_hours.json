@@ -1,0 +1,19 @@
+[
+  {
+    "_type": "Model522ResultTotals", 
+    "_description": "Model522ResultTotals 2016-04-09T00:00:00 head[1], body[41] op[0x6d]", 
+    "timestamp": "2016-04-09T00:00:00", 
+    "_body": "050c00e8000000000218021864000000000000000000000000000000000000000000000c00e8000000", 
+    "_head": "6d", 
+    "_date": "4810"
+  }, 
+  {
+    "_type": "ResultDailyTotal", 
+    "_description": "ResultDailyTotal 2016-04-09T00:00:00 head[5], body[0] op[0x07]", 
+    "timestamp": "2016-04-09T00:00:00", 
+    "_body": "", 
+    "valid_date": "2016-04-08", 
+    "_head": "0700000218", 
+    "_date": "4810"
+  }
+]
