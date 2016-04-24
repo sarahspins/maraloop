@@ -1,1 +1,1 @@
-{"max_iob":2,"type":"current","dia":3,"current_basal":0.2,"max_daily_basal":0.35,"max_basal":0.5,"min_bg":90,"max_bg":130,"sens":70}
+{"max_iob":2,"type":"current","dia":3,"current_basal":0.2,"max_daily_basal":0.35,"max_basal":1,"min_bg":90,"max_bg":130,"sens":70}
