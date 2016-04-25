@@ -15,41 +15,33 @@
   }, 
   "openaps": {
     "suggested": {
-      "bg": 188, 
+      "bg": 223, 
       "temp": "absolute", 
-      "snoozeBG": 242, 
-      "timestamp": "2016-04-24T23:50:01.000Z", 
-      "reason": "Eventual BG 53<90, but Delta +10 > Exp. Delta -2.8; no temp to cancel", 
-      "eventualBG": 53, 
-      "tick": "+10"
+      "snoozeBG": 185, 
+      "timestamp": "2016-04-25T00:59:45.000Z", 
+      "rate": 0.8, 
+      "reason": "Eventual BG 185>130, adj. req. rate:2.1 to maxSafeBasal:0.8, no temp, setting 0.8U/hr", 
+      "eventualBG": 185, 
+      "duration": 30, 
+      "tick": "+0"
     }, 
     "iob": {
-      "timestamp": "2016-04-25T00:59:31.000Z", 
+      "timestamp": "2016-04-25T00:59:40.000Z", 
       "activity": 0.02246860670194003, 
       "iob": 0.8344067239433334, 
       "bolusiob": 0
     }, 
     "enacted": {
-      "bg": 188, 
+      "bg": 223, 
       "temp": "absolute", 
-      "missing": [
-        "duration", 
-        "rate"
-      ], 
-      "timestamp": "2016-04-24T23:50:04.000Z", 
-      "snoozeBG": 242, 
-      "reason": "Eventual BG 53<90, but Delta +10 > Exp. Delta -2.8; no temp to cancel", 
-      "eventualBG": 53, 
-      "error": "missing required input fields", 
-      "input": {
-        "bg": 188, 
-        "temp": "absolute", 
-        "snoozeBG": 242, 
-        "reason": "Eventual BG 53<90, but Delta +10 > Exp. Delta -2.8; no temp to cancel", 
-        "eventualBG": 53, 
-        "tick": "+10"
-      }, 
-      "tick": "+10"
+      "snoozeBG": 185, 
+      "recieved": true, 
+      "reason": "Eventual BG 185>130, adj. req. rate:2.1 to maxSafeBasal:0.8, no temp, setting 0.8U/hr", 
+      "rate": 0.8, 
+      "eventualBG": 185, 
+      "timestamp": "2016-04-25T00:59:51.000Z", 
+      "duration": 30, 
+      "tick": "+0"
     }
   }
 }
