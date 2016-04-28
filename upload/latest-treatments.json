@@ -1,70 +1,31 @@
 [
   {
-    "_type": "Battery",
-    "_description": "Battery 2016-04-27T21:36:17 head[2], body[0] op[0x1a]",
-    "timestamp": "2016-04-27T21:36:17-05:00",
-    "_body": "",
-    "_head": "1a01",
-    "_date": "5124151b10",
-    "medtronic": "mm://openaps/mm-format-ns-treatments/Battery",
-    "created_at": "2016-04-27T21:36:17-05:00",
-    "enteredBy": "openaps://medtronic/722",
-    "eventType": "Note",
-    "notes": "Battery 722 "
-  },
-  {
-    "_type": "Battery",
-    "_description": "Battery 2016-04-27T21:35:56 head[2], body[0] op[0x1a]",
-    "timestamp": "2016-04-27T21:35:56-05:00",
-    "_body": "",
-    "_head": "1a00",
-    "_date": "7823151b10",
-    "medtronic": "mm://openaps/mm-format-ns-treatments/Battery",
-    "created_at": "2016-04-27T21:35:56-05:00",
-    "enteredBy": "openaps://medtronic/722",
-    "eventType": "Note",
-    "notes": "Battery 722 "
-  },
-  {
-    "_type": "LowBattery",
-    "_description": "LowBattery 2016-04-27T21:02:00 head[2], body[0] op[0x19]",
-    "timestamp": "2016-04-27T21:02:00-05:00",
-    "_body": "",
-    "_head": "1900",
-    "_date": "4002151b10",
-    "medtronic": "mm://openaps/mm-format-ns-treatments/LowBattery",
-    "created_at": "2016-04-27T21:02:00-05:00",
-    "enteredBy": "openaps://medtronic/722",
-    "eventType": "Note",
-    "notes": "LowBattery 722 "
-  },
-  {
     "duration": "30",
     "raw_duration": {
       "_type": "TempBasalDuration",
-      "_description": "TempBasalDuration 2016-04-27T20:50:33 head[2], body[0] op[0x16]",
-      "timestamp": "2016-04-27T20:50:33-05:00",
+      "_description": "TempBasalDuration 2016-04-27T21:40:32 head[2], body[0] op[0x16]",
+      "timestamp": "2016-04-27T21:40:32-05:00",
       "_body": "",
       "_head": "1601",
       "duration (min)": 30,
-      "_date": "6132145b10"
+      "_date": "6028155b10"
     },
-    "timestamp": "2016-04-27T20:50:33-05:00",
-    "absolute": "0",
-    "rate": 0,
+    "timestamp": "2016-04-27T21:40:32-05:00",
+    "absolute": "0.8",
+    "rate": 0.8,
     "raw_rate": {
       "_type": "TempBasal",
       "temp": "absolute",
-      "_description": "TempBasal 2016-04-27T20:50:33 head[2], body[1] op[0x33]",
-      "timestamp": "2016-04-27T20:50:33-05:00",
+      "_description": "TempBasal 2016-04-27T21:40:32 head[2], body[1] op[0x33]",
+      "timestamp": "2016-04-27T21:40:32-05:00",
       "_body": "00",
-      "_head": "3300",
-      "rate": 0,
-      "_date": "6132145b10"
+      "_head": "3320",
+      "rate": 0.8,
+      "_date": "6028155b10"
     },
     "eventType": "Temp Basal",
     "medtronic": "mm://openaps/mm-format-ns-treatments/Temp Basal",
-    "created_at": "2016-04-27T20:50:33-05:00",
+    "created_at": "2016-04-27T21:40:32-05:00",
     "enteredBy": "openaps://medtronic/722"
   }
 ]
