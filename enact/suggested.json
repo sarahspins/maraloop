@@ -1,1 +1,1 @@
-{"temp":"absolute","bg":162,"tick":-4,"eventualBG":80,"snoozeBG":96,"reason":"Eventual BG 80<95bolus snooze: eventual BG range 80-96"}
+{"temp":"absolute","bg":161,"tick":-1,"eventualBG":86,"snoozeBG":95,"reason":"Eventual BG 86<95, no temp, setting 0.02U/hr","duration":30,"rate":0}
