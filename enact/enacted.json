@@ -1,0 +1,22 @@
+{
+  "bg": 187, 
+  "temp": "absolute", 
+  "snoozeBG": 160, 
+  "timestamp": "2016-05-06T01:41:14.849695", 
+  "missing": [
+    "duration", 
+    "rate"
+  ], 
+  "reason": "Eventual BG 160>130, adj. req. rate:1.1 to maxSafeBasal:0.8, temp 0.8 >~ req 0.8U/hr", 
+  "eventualBG": 160, 
+  "error": "missing required input fields", 
+  "input": {
+    "reason": "Eventual BG 160>130, adj. req. rate:1.1 to maxSafeBasal:0.8, temp 0.8 >~ req 0.8U/hr", 
+    "bg": 187, 
+    "eventualBG": 160, 
+    "temp": "absolute", 
+    "snoozeBG": 160, 
+    "tick": -1
+  }, 
+  "tick": -1
+}
