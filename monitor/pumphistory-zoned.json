@@ -1,0 +1,176 @@
+[
+  {
+    "_type": "ChangeAlarmNotifyMode", 
+    "_description": "ChangeAlarmNotifyMode 2016-05-06T16:04:03 head[2], body[0] op[0x63]", 
+    "timestamp": "2016-05-06T16:04:03-05:00", 
+    "_body": "", 
+    "_head": "6304", 
+    "_date": "4344100610"
+  }, 
+  {
+    "_type": "CalBGForPH", 
+    "_description": "CalBGForPH 2016-05-06T16:02:00 head[2], body[0] op[0x0a]", 
+    "timestamp": "2016-05-06T16:02:00-05:00", 
+    "_body": "", 
+    "_head": "0af9", 
+    "amount": 249, 
+    "_date": "4042300610"
+  }, 
+  {
+    "_type": "ChangeBasalProfile_new_profile", 
+    "_description": "ChangeBasalProfile_new_profile 2016-05-06T16:01:38 head[2], body[145] op[0x09]", 
+    "timestamp": "2016-05-06T16:01:38-05:00", 
+    "_body": "000a00050e000e10001a0a0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000", 
+    "_head": "0904", 
+    "rate": "offset", 
+    "_date": "6641100610"
+  }, 
+  {
+    "_type": "ChangeBasalProfile_old_profile", 
+    "_description": "ChangeBasalProfile_old_profile 2016-05-06T16:01:38 head[2], body[145] op[0x08]", 
+    "timestamp": "2016-05-06T16:01:38-05:00", 
+    "_body": "000a00050e000e10001a0a0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000", 
+    "_head": "0804", 
+    "rate": "offset", 
+    "_date": "6641100610"
+  }, 
+  {
+    "_type": "ChangeBasalProfile_new_profile", 
+    "_description": "ChangeBasalProfile_new_profile 2016-05-06T16:01:23 head[2], body[145] op[0x09]", 
+    "timestamp": "2016-05-06T16:01:23-05:00", 
+    "_body": "000a00050e000e10001a0a0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000", 
+    "_head": "0904", 
+    "rate": "offset", 
+    "_date": "5741100610"
+  }, 
+  {
+    "_type": "ChangeBasalProfile_old_profile", 
+    "_description": "ChangeBasalProfile_old_profile 2016-05-06T16:01:23 head[2], body[145] op[0x08]", 
+    "timestamp": "2016-05-06T16:01:23-05:00", 
+    "_body": "000800040c000e0e001a080000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000", 
+    "_head": "0804", 
+    "rate": "offset", 
+    "_date": "5741100610"
+  }, 
+  {
+    "_type": "Bolus", 
+    "_description": "Bolus 2016-05-06T15:27:36 head[4], body[0] op[0x01]", 
+    "timestamp": "2016-05-06T15:27:36-05:00", 
+    "_body": "", 
+    "appended": [
+      {
+        "_type": "UnabsorbedInsulinBolus", 
+        "_description": "UnabsorbedInsulinBolus unknown head[8], body[0] op[0x5c]", 
+        "_body": "", 
+        "_head": "5c085c21c0bc11d0", 
+        "data": [
+          {
+            "amount": 2.3, 
+            "age": 33
+          }, 
+          {
+            "amount": 4.7, 
+            "age": 273
+          }
+        ], 
+        "_date": ""
+      }
+    ], 
+    "programmed": 1.0, 
+    "duration": 0, 
+    "amount": 1.0, 
+    "_head": "010a0a00", 
+    "type": "normal", 
+    "_date": "645b2f0610"
+  }, 
+  {
+    "unknown_byte[8]": 0, 
+    "_type": "BolusWizard", 
+    "bg": 96, 
+    "_byte[5]": 0, 
+    "unknown_byte[10]": 0, 
+    "_description": "BolusWizard 2016-05-06T15:27:35 head[2], body[13] op[0x5b]", 
+    "timestamp": "2016-05-06T15:27:35-05:00", 
+    "_body": "00500c465f0000000015000082", 
+    "bg_target_high": 130, 
+    "sensitivity": 70, 
+    "carb_ratio": 12, 
+    "food_estimate": 0.0, 
+    "unabsorbed_insulin_total": 2.1, 
+    "correction_estimate": 0.0, 
+    "carb_input": 0, 
+    "_head": "5b60", 
+    "unabsorbed_insulin_count": "??", 
+    "_byte[7]": 0, 
+    "bolus_estimate": 0.0, 
+    "_date": "635b0f0610", 
+    "bg_target_low": 95
+  }, 
+  {
+    "_type": "CalBGForPH", 
+    "_description": "CalBGForPH 2016-05-06T15:27:29 head[2], body[0] op[0x0a]", 
+    "timestamp": "2016-05-06T15:27:29-05:00", 
+    "_body": "", 
+    "_head": "0a60", 
+    "amount": 96, 
+    "_date": "5d5b2f0610"
+  }, 
+  {
+    "_type": "Bolus", 
+    "_description": "Bolus 2016-05-06T14:54:46 head[4], body[0] op[0x01]", 
+    "timestamp": "2016-05-06T14:54:46-05:00", 
+    "_body": "", 
+    "appended": [
+      {
+        "_type": "UnabsorbedInsulinBolus", 
+        "_description": "UnabsorbedInsulinBolus unknown head[11], body[0] op[0x5c]", 
+        "_body": "", 
+        "_head": "5c0bbcf0c01cccd020d6d0", 
+        "data": [
+          {
+            "amount": 4.7, 
+            "age": 240
+          }, 
+          {
+            "amount": 0.7, 
+            "age": 460
+          }, 
+          {
+            "amount": 0.8, 
+            "age": 470
+          }
+        ], 
+        "_date": ""
+      }
+    ], 
+    "programmed": 2.3, 
+    "duration": 0, 
+    "amount": 2.3, 
+    "_head": "01171700", 
+    "type": "normal", 
+    "_date": "6e762e0610"
+  }, 
+  {
+    "unknown_byte[8]": 0, 
+    "_type": "BolusWizard", 
+    "bg": 0, 
+    "_byte[5]": 0, 
+    "unknown_byte[10]": 0, 
+    "_description": "BolusWizard 2016-05-06T14:54:46 head[2], body[13] op[0x5b]", 
+    "timestamp": "2016-05-06T14:54:46-05:00", 
+    "_body": "17500c465f0013000000001382", 
+    "bg_target_high": 130, 
+    "sensitivity": 70, 
+    "carb_ratio": 12, 
+    "food_estimate": 1.9, 
+    "unabsorbed_insulin_total": 0.0, 
+    "correction_estimate": 0.0, 
+    "carb_input": 23, 
+    "_head": "5b00", 
+    "unabsorbed_insulin_count": "??", 
+    "_byte[7]": 0, 
+    "bolus_estimate": 1.9, 
+    "_date": "6e760e0610", 
+    "bg_target_low": 95
+  }
+]
