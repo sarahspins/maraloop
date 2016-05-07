@@ -1,1 +1,1 @@
-{"temp":"absolute","bg":271,"tick":"+3","eventualBG":204,"snoozeBG":256,"reason":"max_iob 1.5, adj. req. rate:1.1 to maxSafeBasal:1.0, no temp, setting 1U/hr","duration":30,"rate":1}
+{"temp":"absolute","bg":264,"tick":-3,"eventualBG":218,"snoozeBG":233,"reason":"max_iob 1.5, adj. req. rate:1.7 to maxSafeBasal:1.0, no temp, setting 1U/hr","duration":30,"rate":1}
