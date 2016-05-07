@@ -1,0 +1,12 @@
+{
+  "bg": 107, 
+  "temp": "absolute", 
+  "snoozeBG": 250, 
+  "recieved": true, 
+  "rate": 0.0, 
+  "reason": "Eventual BG -94<95, but Delta +9 > Exp. Delta 6.2; cancel", 
+  "eventualBG": -94, 
+  "timestamp": "2016-05-07T12:06:18.857547", 
+  "duration": 0, 
+  "tick": "+9"
+}
