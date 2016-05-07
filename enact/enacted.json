@@ -1,0 +1,12 @@
+{
+  "bg": 342, 
+  "temp": "absolute", 
+  "snoozeBG": 312, 
+  "recieved": true, 
+  "rate": 1.0, 
+  "reason": "max_iob 1.5, adj. req. rate:1.2 to maxSafeBasal:1.0, no temp, setting 1U/hr", 
+  "eventualBG": 275, 
+  "timestamp": "2016-05-06T21:26:25.469345", 
+  "duration": 30, 
+  "tick": -4
+}
