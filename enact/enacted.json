@@ -1,0 +1,22 @@
+{
+  "bg": 268, 
+  "temp": "absolute", 
+  "snoozeBG": 199, 
+  "timestamp": "2016-05-07T20:26:14.295838", 
+  "missing": [
+    "duration", 
+    "rate"
+  ], 
+  "reason": "Eventual BG -7<95bolus snooze: eventual BG range -7-199", 
+  "eventualBG": -7, 
+  "error": "missing required input fields", 
+  "input": {
+    "reason": "Eventual BG -7<95bolus snooze: eventual BG range -7-199", 
+    "bg": 268, 
+    "eventualBG": -7, 
+    "temp": "absolute", 
+    "snoozeBG": 199, 
+    "tick": -11
+  }, 
+  "tick": -11
+}
