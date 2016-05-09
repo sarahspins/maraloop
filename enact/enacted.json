@@ -1,0 +1,22 @@
+{
+  "bg": 148, 
+  "temp": "absolute", 
+  "snoozeBG": 111, 
+  "timestamp": "2016-05-09T01:06:35.822938", 
+  "missing": [
+    "duration", 
+    "rate"
+  ], 
+  "reason": "111 is in range. No temp required", 
+  "eventualBG": 111, 
+  "error": "missing required input fields", 
+  "input": {
+    "reason": "111 is in range. No temp required", 
+    "bg": 148, 
+    "eventualBG": 111, 
+    "temp": "absolute", 
+    "snoozeBG": 111, 
+    "tick": -2
+  }, 
+  "tick": -2
+}
