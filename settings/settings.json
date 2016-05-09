@@ -11,8 +11,8 @@
   "audio_bolus_enable": true, 
   "variable_bolus_enable": false, 
   "alarm": {
-    "volume": 1, 
-    "mode": 2
+    "volume": -1, 
+    "mode": 1
   }, 
   "rf_enable": false, 
   "auto_off_duration_hrs": 0, 
