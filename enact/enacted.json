@@ -1,0 +1,12 @@
+{
+  "bg": 103, 
+  "temp": "absolute", 
+  "snoozeBG": 112, 
+  "recieved": true, 
+  "rate": 0.0, 
+  "reason": "112 is in range. No temp required; cancel", 
+  "eventualBG": 112, 
+  "timestamp": "2016-05-11T05:21:20.513851", 
+  "duration": 0, 
+  "tick": "+1"
+}
