@@ -1,6 +1,12 @@
 [
   {
     "trend_arrow": "NOT_COMPUTABLE", 
+    "system_time": "2016-05-10T11:55:16", 
+    "display_time": "2016-05-12T04:56:10", 
+    "glucose": 10
+  }, 
+  {
+    "trend_arrow": "NOT_COMPUTABLE", 
     "system_time": "2016-05-10T11:50:16", 
     "display_time": "2016-05-12T04:51:10", 
     "glucose": 10
@@ -21,12 +27,6 @@
     "trend_arrow": "NOT_COMPUTABLE", 
     "system_time": "2016-05-10T11:35:16", 
     "display_time": "2016-05-12T04:36:10", 
-    "glucose": 10
-  }, 
-  {
-    "trend_arrow": "NOT_COMPUTABLE", 
-    "system_time": "2016-05-10T11:30:16", 
-    "display_time": "2016-05-12T04:31:10", 
     "glucose": 10
   }
 ]
