@@ -1,0 +1,9 @@
+{
+  "bg": 222, 
+  "temp": "absolute", 
+  "snoozeBG": 142, 
+  "reason": "Eventual BG 142>=120, temp 1.175 >~ req 0.42U/hr", 
+  "eventualBG": 142, 
+  "mealAssist": "Off: Carbs: undefined Boluses: undefined ISF: 70, Target: 118 Deviation: 4 BGI: -11.44", 
+  "tick": -10
+}
