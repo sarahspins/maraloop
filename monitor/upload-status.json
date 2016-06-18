@@ -1,0 +1,53 @@
+{
+  "device": "openaps://maramobile1", 
+  "pump": {
+    "battery": {
+      "status": "normal", 
+      "voltage": 1.5700000000000001
+    }, 
+    "status": {
+      "status": "normal", 
+      "timestamp": "2016-06-18T01:37:02.000Z", 
+      "bolusing": false, 
+      "suspended": false
+    }, 
+    "reservoir": 183.59999999999999, 
+    "clock": "2016-06-17T20:36:20-05:00"
+  }, 
+  "openaps": {
+    "suggested": {
+      "bg": 61, 
+      "temp": "absolute", 
+      "snoozeBG": 21, 
+      "timestamp": "2016-06-18T01:37:31.000Z", 
+      "reason": "BG 61<75", 
+      "rate": 0, 
+      "eventualBG": 21, 
+      "duration": 30, 
+      "mealAssist": "Off: Carbs: undefined Boluses: undefined ISF: 60, Target: 105 Deviation: -20 BGI: -4.08", 
+      "tick": -8
+    }, 
+    "iob": {
+      "netbasalinsulin": -0.050000000000000003, 
+      "timestamp": "2016-06-18T01:37:21.000Z", 
+      "activity": 0.013599999999999999, 
+      "basaliob": -0.012, 
+      "hightempinsulin": 0.050000000000000003, 
+      "bolussnooze": 0, 
+      "iob": 0.33400000000000002
+    }, 
+    "enacted": {
+      "bg": 61, 
+      "temp": "absolute", 
+      "snoozeBG": 21, 
+      "recieved": true, 
+      "rate": 0, 
+      "reason": "BG 61<75", 
+      "eventualBG": 21, 
+      "timestamp": "2016-06-18T01:37:37.000Z", 
+      "duration": 30, 
+      "mealAssist": "Off: Carbs: undefined Boluses: undefined ISF: 60, Target: 105 Deviation: -20 BGI: -4.08", 
+      "tick": -8
+    }
+  }
+}
