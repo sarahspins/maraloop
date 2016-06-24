@@ -1,0 +1,22 @@
+{
+  "bg": 199, 
+  "temp": "absolute", 
+  "snoozeBG": 189, 
+  "timestamp": "2016-06-23T20:11:36.484034", 
+  "missing": [
+    "duration", 
+    "rate"
+  ], 
+  "reason": "max_iob 2, adj. req. rate:2.8 to maxSafeBasal:1.4, temp 1.35 >~ req 1.35U/hr", 
+  "eventualBG": 189, 
+  "error": "missing required input fields", 
+  "input": {
+    "reason": "max_iob 2, adj. req. rate:2.8 to maxSafeBasal:1.4, temp 1.35 >~ req 1.35U/hr", 
+    "bg": 199, 
+    "eventualBG": 189, 
+    "temp": "absolute", 
+    "snoozeBG": 189, 
+    "tick": "+4"
+  }, 
+  "tick": "+4"
+}
