@@ -1,0 +1,247 @@
+[
+  {
+    "_type": "TempBasalDuration", 
+    "_description": "TempBasalDuration 2016-06-23T19:46:22 head[2], body[0] op[0x16]", 
+    "timestamp": "2016-06-23T19:46:22-05:00", 
+    "_body": "", 
+    "_head": "1601", 
+    "duration (min)": 30, 
+    "_date": "56ae135710"
+  }, 
+  {
+    "_type": "TempBasal", 
+    "temp": "absolute", 
+    "_description": "TempBasal 2016-06-23T19:46:22 head[2], body[1] op[0x33]", 
+    "timestamp": "2016-06-23T19:46:22-05:00", 
+    "_body": "00", 
+    "_head": "3336", 
+    "rate": 1.35, 
+    "_date": "56ae135710"
+  }, 
+  {
+    "_type": "TempBasalDuration", 
+    "_description": "TempBasalDuration 2016-06-23T18:17:01 head[2], body[0] op[0x16]", 
+    "timestamp": "2016-06-23T18:17:01-05:00", 
+    "_body": "", 
+    "_head": "1601", 
+    "duration (min)": 30, 
+    "_date": "4191125710"
+  }, 
+  {
+    "_type": "TempBasal", 
+    "temp": "absolute", 
+    "_description": "TempBasal 2016-06-23T18:17:01 head[2], body[1] op[0x33]", 
+    "timestamp": "2016-06-23T18:17:01-05:00", 
+    "_body": "00", 
+    "_head": "330d", 
+    "rate": 0.325, 
+    "_date": "4191125710"
+  }, 
+  {
+    "_type": "Bolus", 
+    "_description": "Bolus 2016-06-23T18:11:53 head[4], body[0] op[0x01]", 
+    "timestamp": "2016-06-23T18:11:53-05:00", 
+    "_body": "", 
+    "appended": [
+      {
+        "_type": "UnabsorbedInsulinBolus", 
+        "_description": "UnabsorbedInsulinBolus unknown head[20], body[0] op[0x5c]", 
+        "_body": "", 
+        "_head": "5c142c1bc09c39c0183dd03497d052a1d02aabd0", 
+        "data": [
+          {
+            "amount": 1.1, 
+            "age": 27
+          }, 
+          {
+            "amount": 3.9, 
+            "age": 57
+          }, 
+          {
+            "amount": 0.6, 
+            "age": 317
+          }, 
+          {
+            "amount": 1.3, 
+            "age": 407
+          }, 
+          {
+            "amount": 2.05, 
+            "age": 417
+          }, 
+          {
+            "amount": 1.05, 
+            "age": 427
+          }
+        ], 
+        "_date": ""
+      }
+    ], 
+    "programmed": 1.3, 
+    "duration": 0, 
+    "amount": 1.3, 
+    "_head": "010d0d00", 
+    "type": "normal", 
+    "_date": "758b321710"
+  }, 
+  {
+    "unknown_byte[8]": 0, 
+    "_type": "BolusWizard", 
+    "bg": 0, 
+    "_byte[5]": 0, 
+    "unknown_byte[10]": 0, 
+    "_description": "BolusWizard 2016-06-23T18:11:53 head[2], body[13] op[0x5b]", 
+    "timestamp": "2016-06-23T18:11:53-05:00", 
+    "_body": "0c50093c64000d000000000d6e", 
+    "bg_target_high": 110, 
+    "sensitivity": 60, 
+    "carb_ratio": 9, 
+    "food_estimate": 1.3, 
+    "unabsorbed_insulin_total": 0.0, 
+    "correction_estimate": 0.0, 
+    "carb_input": 12, 
+    "_head": "5b00", 
+    "unabsorbed_insulin_count": "??", 
+    "_byte[7]": 0, 
+    "bolus_estimate": 1.3, 
+    "_date": "758b121710", 
+    "bg_target_low": 100
+  }, 
+  {
+    "_type": "Bolus", 
+    "_description": "Bolus 2016-06-23T17:50:15 head[4], body[0] op[0x01]", 
+    "timestamp": "2016-06-23T17:50:15-05:00", 
+    "_body": "", 
+    "appended": [
+      {
+        "_type": "UnabsorbedInsulinBolus", 
+        "_description": "UnabsorbedInsulinBolus unknown head[17], body[0] op[0x5c]", 
+        "_body": "", 
+        "_head": "5c119c24c01828d03482d0528cd02a96d0", 
+        "data": [
+          {
+            "amount": 3.9, 
+            "age": 36
+          }, 
+          {
+            "amount": 0.6, 
+            "age": 296
+          }, 
+          {
+            "amount": 1.3, 
+            "age": 386
+          }, 
+          {
+            "amount": 2.05, 
+            "age": 396
+          }, 
+          {
+            "amount": 1.05, 
+            "age": 406
+          }
+        ], 
+        "_date": ""
+      }
+    ], 
+    "programmed": 1.1, 
+    "duration": 0, 
+    "amount": 1.1, 
+    "_head": "010b0b00", 
+    "type": "normal", 
+    "_date": "4fb2311710"
+  }, 
+  {
+    "unknown_byte[8]": 0, 
+    "_type": "BolusWizard", 
+    "bg": 0, 
+    "_byte[5]": 0, 
+    "unknown_byte[10]": 0, 
+    "_description": "BolusWizard 2016-06-23T17:50:15 head[2], body[13] op[0x5b]", 
+    "timestamp": "2016-06-23T17:50:15-05:00", 
+    "_body": "0a50093c64000b000000000b6e", 
+    "bg_target_high": 110, 
+    "sensitivity": 60, 
+    "carb_ratio": 9, 
+    "food_estimate": 1.1, 
+    "unabsorbed_insulin_total": 0.0, 
+    "correction_estimate": 0.0, 
+    "carb_input": 10, 
+    "_head": "5b00", 
+    "unabsorbed_insulin_count": "??", 
+    "_byte[7]": 0, 
+    "bolus_estimate": 1.1, 
+    "_date": "4fb2111710", 
+    "bg_target_low": 100
+  }, 
+  {
+    "_type": "Bolus", 
+    "_description": "Bolus 2016-06-23T17:17:48 head[4], body[0] op[0x01]", 
+    "timestamp": "2016-06-23T17:17:48-05:00", 
+    "_body": "", 
+    "appended": [
+      {
+        "_type": "UnabsorbedInsulinBolus", 
+        "_description": "UnabsorbedInsulinBolus unknown head[14], body[0] op[0x5c]", 
+        "_body": "", 
+        "_head": "5c0e1807d03461d0526bd02a75d0", 
+        "data": [
+          {
+            "amount": 0.6, 
+            "age": 263
+          }, 
+          {
+            "amount": 1.3, 
+            "age": 353
+          }, 
+          {
+            "amount": 2.05, 
+            "age": 363
+          }, 
+          {
+            "amount": 1.05, 
+            "age": 373
+          }
+        ], 
+        "_date": ""
+      }
+    ], 
+    "programmed": 3.9, 
+    "duration": 0, 
+    "amount": 3.9, 
+    "_head": "01272700", 
+    "type": "normal", 
+    "_date": "7091311710"
+  }, 
+  {
+    "unknown_byte[8]": 0, 
+    "_type": "BolusWizard", 
+    "bg": 192, 
+    "_byte[5]": 13, 
+    "unknown_byte[10]": 0, 
+    "_description": "BolusWizard 2016-06-23T17:17:48 head[2], body[13] op[0x5b]", 
+    "timestamp": "2016-06-23T17:17:48-05:00", 
+    "_body": "1850093c640d1a00000000276e", 
+    "bg_target_high": 110, 
+    "sensitivity": 60, 
+    "carb_ratio": 9, 
+    "food_estimate": 2.6, 
+    "unabsorbed_insulin_total": 0.0, 
+    "correction_estimate": 1.3, 
+    "carb_input": 24, 
+    "_head": "5bc0", 
+    "unabsorbed_insulin_count": "??", 
+    "_byte[7]": 0, 
+    "bolus_estimate": 3.9, 
+    "_date": "7091111710", 
+    "bg_target_low": 100
+  }, 
+  {
+    "_type": "CalBGForPH", 
+    "_description": "CalBGForPH 2016-06-23T17:17:38 head[2], body[0] op[0x0a]", 
+    "timestamp": "2016-06-23T17:17:38-05:00", 
+    "_body": "", 
+    "_head": "0ac0", 
+    "amount": 192, 
+    "_date": "6691311710"
+  }
+]
