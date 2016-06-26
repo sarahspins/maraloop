@@ -1,1 +1,1 @@
-{"temp":"absolute","bg":60,"tick":"+2","eventualBG":87,"snoozeBG":87,"reason":"BG 60<77.5","duration":30,"rate":0}
+{"temp":"absolute","bg":69,"tick":"+9","eventualBG":105,"snoozeBG":105,"reason":"BG 69<77.5, delta 9>0; no high-temp to cancel"}
