@@ -1,0 +1,12 @@
+{
+  "bg": 73, 
+  "temp": "absolute", 
+  "snoozeBG": 108, 
+  "recieved": true, 
+  "rate": 0.0, 
+  "reason": "BG 73<77.5", 
+  "eventualBG": 108, 
+  "timestamp": "2016-06-27T01:16:33.399264", 
+  "duration": 30, 
+  "tick": "+1"
+}
