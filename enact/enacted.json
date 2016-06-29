@@ -1,0 +1,22 @@
+{
+  "bg": 68, 
+  "temp": "absolute", 
+  "snoozeBG": 106, 
+  "timestamp": "2016-06-29T01:12:01.865784", 
+  "missing": [
+    "duration", 
+    "rate"
+  ], 
+  "reason": "BG 68<77.5, avg delta 2.00>0; no high-temp to cancel", 
+  "eventualBG": 106, 
+  "error": "missing required input fields", 
+  "input": {
+    "reason": "BG 68<77.5, avg delta 2.00>0; no high-temp to cancel", 
+    "bg": 68, 
+    "eventualBG": 106, 
+    "temp": "absolute", 
+    "snoozeBG": 106, 
+    "tick": -1
+  }, 
+  "tick": -1
+}
