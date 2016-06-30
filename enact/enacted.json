@@ -1,0 +1,12 @@
+{
+  "bg": 75, 
+  "temp": "absolute", 
+  "snoozeBG": 125, 
+  "recieved": true, 
+  "rate": 0.0, 
+  "reason": "BG 75<77.5, delta 11>0, cancel low temp", 
+  "eventualBG": 125, 
+  "timestamp": "2016-06-30T06:11:29.915851", 
+  "duration": 0, 
+  "tick": "+11"
+}
