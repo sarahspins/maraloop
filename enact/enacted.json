@@ -1,0 +1,12 @@
+{
+  "bg": 233, 
+  "temp": "absolute", 
+  "snoozeBG": 182, 
+  "recieved": true, 
+  "rate": 0.45, 
+  "reason": "22mins @1.000 = 0.367 > req 0.06+0.3 U", 
+  "eventualBG": 131, 
+  "timestamp": "2016-07-01T22:06:42.937457", 
+  "duration": 30, 
+  "tick": -5
+}
