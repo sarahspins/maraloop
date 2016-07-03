@@ -1,0 +1,55 @@
+{
+  "pump": {
+    "battery": {
+      "status": "normal", 
+      "voltage": 1.36
+    }, 
+    "status": {
+      "status": "normal", 
+      "timestamp": "2016-07-03T07:11:13.000Z", 
+      "bolusing": false, 
+      "suspended": false
+    }, 
+    "reservoir": 82.4, 
+    "clock": "2016-07-03T02:10:38-05:00"
+  }, 
+  "openaps": {
+    "suggested": {
+      "bg": 184, 
+      "temp": "absolute", 
+      "snoozeBG": 144, 
+      "timestamp": "2016-07-03T07:11:24.000Z", 
+      "reason": "Eventual BG 144>105, adj. req. rate:1.6 to maxSafeBasal:1.4, temp 1.35 >~ req 1.35U/hr", 
+      "eventualBG": 144, 
+      "tick": "+1"
+    }, 
+    "iob": {
+      "timestamp": "2016-07-03T07:11:18.000Z", 
+      "activity": 0.007880582010582008, 
+      "iob": 0.8735028096766667, 
+      "bolusiob": 0
+    }, 
+    "enacted": {
+      "bg": 184, 
+      "temp": "absolute", 
+      "missing": [
+        "duration", 
+        "rate"
+      ], 
+      "timestamp": "2016-07-03T07:11:28.000Z", 
+      "snoozeBG": 144, 
+      "reason": "Eventual BG 144>105, adj. req. rate:1.6 to maxSafeBasal:1.4, temp 1.35 >~ req 1.35U/hr", 
+      "eventualBG": 144, 
+      "error": "missing required input fields", 
+      "input": {
+        "bg": 184, 
+        "temp": "absolute", 
+        "snoozeBG": 144, 
+        "reason": "Eventual BG 144>105, adj. req. rate:1.6 to maxSafeBasal:1.4, temp 1.35 >~ req 1.35U/hr", 
+        "eventualBG": 144, 
+        "tick": "+1"
+      }, 
+      "tick": "+1"
+    }
+  }
+}
