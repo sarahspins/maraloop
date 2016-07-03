@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 {"max_iob":2,"type":"current","dia":3,"current_basal":0.45,"max_daily_basal":0.45,"max_basal":1.8,"min_bg":105,"max_bg":105,"sens":60}
-=======
-{"max_iob":1.5,"type":"current","dia":3,"current_basal":0.25,"max_daily_basal":0.4,"max_basal":1.5,"min_bg":95,"max_bg":115,"sens":70}
->>>>>>> 3bcd6ed24ef5def59fda4a0dd96fd723189dd422
