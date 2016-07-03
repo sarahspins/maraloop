@@ -1,62 +1,32 @@
 [
   {
     "trend_arrow": "FLAT", 
-<<<<<<< HEAD
-    "system_time": "2016-07-01T14:51:15", 
-    "display_time": "2016-07-03T07:56:19", 
+    "system_time": "2016-07-01T15:16:14", 
+    "display_time": "2016-07-03T08:21:19", 
+    "glucose": 162
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-07-01T15:11:14", 
+    "display_time": "2016-07-03T08:16:19", 
+    "glucose": 163
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-07-01T15:06:15", 
+    "display_time": "2016-07-03T08:11:19", 
+    "glucose": 164
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-07-01T15:01:15", 
+    "display_time": "2016-07-03T08:06:19", 
+    "glucose": 163
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-07-01T14:56:15", 
+    "display_time": "2016-07-03T08:01:19", 
     "glucose": 160
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-07-01T14:46:15", 
-    "display_time": "2016-07-03T07:51:19", 
-    "glucose": 158
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-07-01T14:41:15", 
-    "display_time": "2016-07-03T07:46:19", 
-    "glucose": 153
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-07-01T14:36:15", 
-    "display_time": "2016-07-03T07:41:19", 
-    "glucose": 147
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-07-01T14:31:15", 
-    "display_time": "2016-07-03T07:36:19", 
-    "glucose": 144
-=======
-    "system_time": "2016-05-13T22:54:59", 
-    "display_time": "2016-05-15T15:55:54", 
-    "glucose": 84
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-05-13T22:49:59", 
-    "display_time": "2016-05-15T15:50:54", 
-    "glucose": 84
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-05-13T22:45:00", 
-    "display_time": "2016-05-15T15:45:54", 
-    "glucose": 85
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-05-13T22:40:00", 
-    "display_time": "2016-05-15T15:40:54", 
-    "glucose": 86
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-05-13T22:35:00", 
-    "display_time": "2016-05-15T15:35:54", 
-    "glucose": 88
->>>>>>> 3bcd6ed24ef5def59fda4a0dd96fd723189dd422
   }
 ]
