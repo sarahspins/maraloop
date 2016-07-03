@@ -4,7 +4,11 @@
     {
       "i": 0, 
       "start": "00:00:00", 
+<<<<<<< HEAD
       "sensitivity": 60, 
+=======
+      "sensitivity": 70, 
+>>>>>>> 3bcd6ed24ef5def59fda4a0dd96fd723189dd422
       "offset": 0, 
       "x": 0
     }

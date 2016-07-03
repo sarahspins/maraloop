@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"temp":"absolute","bg":160,"tick":"+2","eventualBG":145,"snoozeBG":145,"reason":"Eventual BG 145>105, adj. req. rate:1.8 to maxSafeBasal:1.4, temp 1.35 >~ req 1.35U/hr"}
+=======
+{"temp":"absolute","bg":84,"tick":-1,"eventualBG":85,"snoozeBG":85,"reason":"Eventual BG 85<95, no temp, setting -0.321U/hr","duration":30,"rate":0}
+>>>>>>> 3bcd6ed24ef5def59fda4a0dd96fd723189dd422
